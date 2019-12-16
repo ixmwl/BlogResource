@@ -2,7 +2,7 @@
 //  DeviceOrientation.m
 //  EpointiOSFrameV7
 //
-//  Created by 刘灿 on 2019/12/16.
+//  Created by LC on 2019/12/16.
 //  Copyright © 2019 Epoint. All rights reserved.
 //
 
